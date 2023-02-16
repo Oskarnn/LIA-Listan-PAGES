@@ -1,0 +1,74 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Kumpan",
+      "info": "Webbbyrå",
+      "location": "Stockholm",
+      "status": "Inväntar svar"
+    },
+    {
+      "id": "2",
+      "name": "Tieto",
+      "info": "Webbbyrå",
+      "location": "Stockholm/ Umeå",
+      "status": "Inväntar svar"
+    },
+    {
+      "id": "3",
+      "name": "Chili media",
+      "info": "Webbbyrå",
+      "location": "Umeå",
+      "status": "Tackat nej"
+    },
+    {
+      "id": "4",
+      "name": "Noor",
+      "info": "Webbbyrå",
+      "location": "Stockholm/ Umeå",
+      "status": "Inväntar svar"
+    },
+    {
+      "id": "5",
+      "name": "Epidemic sounds",
+      "info": "Ljudkreatörer",
+      "location": "Stockholm",
+      "status": "Tackat nej"
+    },
+    {
+      "id": "6",
+      "name": "Cloudnine",
+      "info": "Konsultbolag",
+      "location": "Stockholm/ Distans",
+      "status": "Inväntar svar"
+    },
+    {
+      "id": "7",
+      "name": "B3",
+      "info": "Konsultbolag",
+      "location": "Stockholm",
+      "status": "Inväntar svar"
+    },
+    {
+      "id": "8",
+      "name": "Anyday",
+      "info": "Webbbyrå",
+      "location": "Umeå",
+      "status": "Kallad på intervju"
+    },
+    {
+      "id": "9",
+      "name": "Web express AB",
+      "info": "Webbbyrå",
+      "location": "Stockholm",
+      "status": "Tackat nej"
+    },
+    {
+      "id": "10",
+      "name": "Cypoint",
+      "info": "Webbbyrå",
+      "location": "Stockholm/ Umeå",
+      "status": "Kallad på intervju"
+    }
+  ]
+}
